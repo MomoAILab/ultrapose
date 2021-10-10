@@ -1,6 +1,6 @@
 # UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-body Decoupling 3D Model
 Official repository for the **ICCV 2021** paper:  
-**UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-body Decoupling 3D Model**  [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Yan_UltraPose_Synthesizing_Dense_Pose_With_1_Billion_Points_by_Human-Body_ICCV_2021_paper.pdf) ]
+**UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-body Decoupling 3D Model**  [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Yan_UltraPose_Synthesizing_Dense_Pose_With_1_Billion_Points_by_Human-Body_ICCV_2021_paper.pdf)]
 
 Haonan Yan, Jiaqi Chen, Xujie Zhang, Shengkai Zhang, Nianhong Jiao, Xiaodan Liang, Tianxiang Zheng
  
