@@ -1,0 +1,11 @@
+LICENSE
+NOTICE
+README.md
+setup.py
+Detectron.egg-info/PKG-INFO
+Detectron.egg-info/SOURCES.txt
+Detectron.egg-info/dependency_links.txt
+Detectron.egg-info/top_level.txt
+detectron/__init__.py
+detectron/utils/cython_bbox.c
+detectron/utils/cython_nms.c
