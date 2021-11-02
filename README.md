@@ -70,7 +70,7 @@ Extract the data and put them under `$UltraPoseDir/data`.
 |  Dataset   | Persons  | Points  | #Avg Density  | Mask Resolution  | No error |
 | :----: | :----: | :----: |:----:  | :----: | :----: |
 |  Densepose-COCO  | 49K  |5.2M  |106  |256x256  |  | 
-|  UltraPose  | 5K  |13M  |2.6K  |512x512  |<input type="checkbox" checked="checked"> |
+|  UltraPose  | 5K  |13M  |2.6K  |512x512  | ✓ |
 
 ## Acknowledgements
 Parts of the code are taken or adapted from the following repos:
