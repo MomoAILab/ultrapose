@@ -5,7 +5,7 @@ Official repository for the **ICCV 2021** paper:
 
 Haonan Yan, Jiaqi Chen, Xujie Zhang, Shengkai Zhang, Nianhong Jiao, Xiaodan Liang, Tianxiang Zheng
  
-The dataset is now available at [Baidu net disk](https://pan.baidu.com/s/13ms66BO_PuWopkfkzZ_IYQ) (code: 477s) and [google drive](https://drive.google.com/file/d/1QyJjFrPrACzFI2fZizIyAcks0mdxieOV/view?usp=sharing).
+The dataset is now available at [Baidu net disk](https://pan.baidu.com/s/1lHM_6bxWGp5ZrxFQNcJpTg) (code: bpi2) or [google drive](https://drive.google.com/drive/folders/13SNcjuQBT62JfCGgBlchnLqbX8cv4QxT?usp=sharing).
 
 
 
@@ -63,14 +63,15 @@ python evaluation.py
 ```
 
 ## Dataset
-The dataset is now available from [Baidu net disk](https://pan.baidu.com/s/13ms66BO_PuWopkfkzZ_IYQ) (code: 477s) or [google drive](https://drive.google.com/file/d/1QyJjFrPrACzFI2fZizIyAcks0mdxieOV/view?usp=sharing).
+![teaser](png/fig4.png)
+The dataset is now available from [Baidu net disk](https://pan.baidu.com/s/1lHM_6bxWGp5ZrxFQNcJpTg) (code: bpi2) or [google drive](https://drive.google.com/drive/folders/13SNcjuQBT62JfCGgBlchnLqbX8cv4QxT?usp=sharing).
 
 Extract the data and put them under `$UltraPoseDir/data`.
 
 |  Dataset   | Persons  | Points  | #Avg Density  | Mask Resolution  | No error |
 | :----: | :----: | :----: |:----:  | :----: | :----: |
-|  Densepose-COCO  | 49K  |5.2M  |106  |256x256  |  | 
-|  UltraPose  | 5K  |13M  |2.6K  |512x512  | ✓ |
+|  Densepose-COCO  | 49K | 5.2M | 106 | 256x256  |  | 
+|  UltraPose  | 5K | 13M  | 2.6K | 512x512  | ✓ |
 
 ## Acknowledgements
 Parts of the code are taken or adapted from the following repos:
